@@ -1,0 +1,22 @@
+{
+  "name": "react-slideshow-api",
+  "version": "1.0.0",
+  "description": "Basic API creation Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phili0916/React-SlideShow-API.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Philip Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phili0916/React-SlideShow-API/issues"
+  },
+  "homepage": "https://github.com/Phili0916/React-SlideShow-API#readme"
+}

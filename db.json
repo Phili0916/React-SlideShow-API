@@ -12,7 +12,7 @@
                         "place_id": 0,
                         "name": "Varykino",
                         "description": "An island in Naboo's scenic Lake Country which houses the Varykino Villa, the lake retreat of the Naboo epic poet Omar Berenko and the Naberrie Royal Family.",
-                        "image": ""
+                        "image": "../Naboo_img/Varykino.png"
 
                     }
                 ],
@@ -20,8 +20,8 @@
                     {
                         "place_id": 1,
                         "name": "Water Meadows",
-                        "description": "The water methods is a valley dotted with numerous lakes and surrounded by mountains. In springtime, the festival of Glad Arrival transform the communally-owned, Pastoral Collective-maintained meadows into a setting for colorful pageants and musical performances for several days.",
-                        "image": ""
+                        "description": "The Water Meadows is a valley dotted with numerous lakes and surrounded by mountains. In springtime, the festival of Glad Arrival transform the communally-owned, Pastoral Collective-maintained meadows into a setting for colorful pageants and musical performances for several days.",
+                        "image": "../Naboo_img/water_meadows.jpg"
                     }
                 ], 
                 "place 3": [
@@ -29,7 +29,7 @@
                         "place_id": 2,
                         "name": "Convergence",
                         "description": "Convergence is a majestic country house built in the style of Theed architecture, incorporating rotund domes and graceful towers. This splendid home was the ancestral of the house of Palpatine.",
-                        "image": ""
+                        "image": "../Nabbo_img/Convergence.jpg"
                     }
                     
                 ]  
